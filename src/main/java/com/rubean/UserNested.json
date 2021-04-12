@@ -1,0 +1,12 @@
+{
+  "name": "Markus",
+  "email" : "Markus.Meier68@gmx.de",
+  "age" : 52,
+  "isDeveloper" : true,
+  "userAddress": {
+    "street": "Pütrichstrasse",
+    "housenumnber": "11",
+    "city" : "Gauting",
+    "country" : "Germany"
+  }
+}
